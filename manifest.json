@@ -1,0 +1,17 @@
+{
+  "name": "LifeTrack — Goals & Finance Ledger",
+  "short_name": "LifeTrack",
+  "description": "A private, offline-first ledger for goals and everyday finances.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1ECE0",
+  "theme_color": "#26312B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
